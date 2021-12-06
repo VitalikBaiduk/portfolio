@@ -1,0 +1,26 @@
+
+.img {
+    padding: 140px;
+    background-color: grey;
+}
+
+.img_inner {
+    padding: 10px;
+    background-color: dimgrey;
+}
+
+.info {
+    background-color: white;
+    padding: 5px 10px;
+}
+
+.projName {
+    width: 100px;
+    background-color: grey;
+}
+
+.shortDescr {
+    width: 140px;
+    background-color: grey;
+    margin-top: 5px;
+}

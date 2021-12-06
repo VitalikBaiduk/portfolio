@@ -1,0 +1,46 @@
+.mainDiv {
+    background-color: cornflowerblue;
+    padding: 70px 260px;
+}
+
+.info {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+.contacts {
+    background-color: grey;
+    padding: 10px;
+}
+
+.form {
+    height: 170px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.input {
+    width: 250px;
+    height: 35px;
+    background-color: grey;
+    border: none;
+}
+
+.textArea {
+    height: 70px;
+    background-color: grey;
+    border: none;
+}
+
+.sendButton {
+    border: none;
+    cursor: pointer;
+    background-color: grey;
+    padding: 10px 20px;
+}
